@@ -7,7 +7,7 @@ repoOwner: Kanyi40
 repoName: SeewoQuickLogin
 assetsRoot: main/SeewoAutoLogin.Plugin
 artifactName: SeewoAutoLogin.Plugin.cipx
-version: 0.2.1.0
+version: 0.2.2.0
 apiVersion: 2.0.0.0
 author: 戡弈
 supportedOSPlatforms:
